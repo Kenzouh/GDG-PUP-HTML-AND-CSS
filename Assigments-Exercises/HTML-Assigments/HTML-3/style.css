@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+}
+
+h1{
+    color: #65005b;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+h2{
+    color: #080080;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+h3{
+    color: #070247;
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+p{
+    color: #000000;
+    font-size: 20px;
+}
+
+img{
+    width: 800px;
+    height: 500px;
+
+    border: 4px solid #000000;
+    border-radius: 20px;
+}
+
+hr{
+    border: 2px solid #000000;
+}
